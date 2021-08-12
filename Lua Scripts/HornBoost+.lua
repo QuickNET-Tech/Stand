@@ -38,7 +38,6 @@ end, hornInstantStopEnabled)
 
 
 
-
 function updateVehHandle()	
 	vehHandle = PED.GET_VEHICLE_PED_IS_IN(PLAYER.PLAYER_PED_ID(), false)
 end
